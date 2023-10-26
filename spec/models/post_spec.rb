@@ -19,8 +19,8 @@ RSpec.describe Post, type: :model do
   describe '#five_most_recent_comments' do
     it 'returns the five most recent comments for the post' do
       post = create(:post, author: user)
-      create_list(:comment, 5, post: post, created_at: 1.month.ago)
-      recent_comments = create_list(:comment, 5, post: post)
+      create_list(:comment, 5, post:, created_at: 1.month.ago)
+      recent_comments = create_list(:comment, 5, post:)
 
       expected_comment_ids = recent_comments.pluck(:id).sort.reverse
       actual_comment_ids = post.five_most_recent_comments.pluck(:id).sort.reverse
