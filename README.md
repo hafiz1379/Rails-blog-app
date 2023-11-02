@@ -123,7 +123,7 @@ rspec
 
 ### Contributions, issues, and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/Alejandro-Bernal-M/rails-blog-app/issues).
+Feel free to check [issues page](https://github.com/hafiz1379/Rails-blog-app/issues).
 
 ## ⭐️ Show your support <a name="support"></a>
 
