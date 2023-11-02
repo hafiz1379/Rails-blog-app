@@ -36,9 +36,14 @@ The Rails-blog-app will be a classic example of a blog website. It will be a fun
 
 ### Key Features <a name="key-features"></a>
 
-- **Ruby on Rails**
-- **Functional website**
-- **Unit testing**
+**Ruby on Rails**
+**Data Model**
+**Associations Between Models**
+**SQL Queries**
+**Validations**
+**Models Specs**
+**Controllers**
+**Controllers specs**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
