@@ -105,9 +105,9 @@ rspec
 
 ## 👥 Authors <a name="author"></a>
 
-👤 **Alejandro**
-- GitHub: [Alejandro](https://https://github.com/hafiz1379)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hafiz1379)
+👤 **Hafizullah Rasa**
+- GitHub: [Hafiz Rasa](https://https://github.com/hafiz1379)
+- LinkedIn: [Hafiz Rasa](https://www.linkedin.com/in/hafiz1379)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
