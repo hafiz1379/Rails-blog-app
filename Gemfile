@@ -65,11 +65,14 @@ group :development do
 
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   gem 'spring'
+  # Add Bullet for N+1 query problem detection
+  gem 'bullet'
 end
 
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem 'capybara'
+  gem 'database_cleaner'
   gem 'selenium-webdriver'
 end
 
