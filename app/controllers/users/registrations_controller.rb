@@ -14,6 +14,13 @@ class Users::RegistrationsController < Devise::RegistrationsController
   #   super
   # end
 
+  def create
+    super do |resource|
+      # Asigna el rol "user" al usuario al registrarse
+      resource.role = 'user'
+      resource.save
+    end
+  end
   # PUT /resource
   # def update
   #   super
