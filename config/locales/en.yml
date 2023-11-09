@@ -28,4 +28,7 @@
 #       enabled: "ON"
 
 en:
-  hello: "Hello world"
+  cancan:
+    unauthorized:
+      manage:
+        all: "You have no access to this resource"
